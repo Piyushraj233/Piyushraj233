@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Raj Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://www.magnific.com/free-photos-vectors/futuristic-ai-technology" align="right" alt="">
+<img src="https://www.vecteezy.com/free-videos/tech-animation" align="" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushraj233&label=Profile%20views&color=0e75b6&style=flat" alt="piyushraj233" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushraj233" alt="piyushraj233" /></a> </p>
