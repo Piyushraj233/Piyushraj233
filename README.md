@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Piyush Raj Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://www.vecteezy.com/free-videos/tech-animation" align="" alt="">
+<img src="https://stockcake.com/i/future-within-reach_1527320_1173231" align="" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushraj233&label=Profile%20views&color=0e75b6&style=flat" alt="piyushraj233" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushraj233" alt="piyushraj233" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, AI, Backend,  Node. js, Express.js, MongoDB, and SQL **
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/piyush233](www.linkedin.com/in/piyush233)
+- 👨‍💻 All of my projects are available at (www.linkedin.com/in/piyush233)
 
 - 💬 Ask me about **JAVA,HTML,CSS5,JavaScript,reactjs**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/piyush233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/piyush233" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@algopluslogic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@algopluslogic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyush233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/piyush233" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@algopluslogic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@algopluslogic" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/piyush raj singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyush raj singh" height="30" width="40" /></a>
 </p>
 
