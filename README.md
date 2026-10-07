@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **piyushrajsingh233233@gmail.com**
 
-- ⚡ Fun fact **generatin ai Animation fact**
+- ⚡ Fun fact **Create Ai Animation fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
