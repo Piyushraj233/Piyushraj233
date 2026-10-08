@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **DSA, AI, Backend,  Node. js, Express.js, MongoDB, and SQL **
 
-- 👨‍💻 All of my projects are available at (www.linkedin.com/in/piyush233)
+- 👨‍💻 All of my projects are available at: (www.linkedin.com/in/piyush233)
 
-- 💬 Ask me about **JAVA,HTML,CSS5,JavaScript,reactjs**
+- 💬 Ask me about: **JAVA,HTML,CSS5,JavaScript,reactjs**
 
 - 📫 How to reach me: **piyushrajsingh233233@gmail.com**
 
-- ⚡ Fun fact **Create Ai Animation fact**
+- ⚡ Fun fact : **Create Ai Animation fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
